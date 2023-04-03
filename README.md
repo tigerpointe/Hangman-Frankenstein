@@ -1,7 +1,7 @@
 # Don't Wake the Frankenstein Monster (Hangman Variant)
 ## Copyright (c) 2023 TigerPointe Software, LLC
 
-## Description
+## Description (Family-Friendly Game Version)
 Players discover puzzle words or phrases by suggesting letters.
 
 Each incorrect guess adds an element to the hangman diagram.
